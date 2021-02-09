@@ -3,6 +3,8 @@
     <head>
         <!-- Add external js -->
         <script src="https://paypage.sandbox.ngenius-payments.com/hosted-sessions/sdk.js" src_type="url" />
+        <remove src="js/translate-inline.js"/>
+
     </head>
     <body>
         <referenceBlock name="checkout.root">
